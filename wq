@@ -1,0 +1,23 @@
+[33mcommit 8bdc61b893c90889adecf9bdd8b5b1fdaf669aef[m[33m ([m[1;36mHEAD -> [m[1;32mfrontend[m[33m, [m[1;31morigin/frontend[m[33m)[m
+Author: rostorare <mzwyssig93@gmail.com>
+Date:   Mon Jun 26 19:12:40 2023 +0200
+
+    logo auf 200x200 geändert
+
+[33mcommit 927e98541e518d4dc854fdbda3c8aa2d3200c834[m
+Author: rostorare <mzwyssig93@gmail.com>
+Date:   Mon Jun 26 19:00:57 2023 +0200
+
+    Liste aller mensen vorhanden ohne db & cache jedoch
+
+[33mcommit 5e05b5594564180d382773a0cfc36e2c0ce0b8af[m[33m ([m[1;32mmaster[m[33m)[m
+Author: rostorare <mzwyssig93@gmail.com>
+Date:   Mon Jun 26 16:00:22 2023 +0200
+
+    alles grün für pwa lighthouse
+
+[33mcommit ba9adca12c06b63b78e78a60f6755f81817231ed[m
+Author: rostorare <mzwyssig93@gmail.com>
+Date:   Fri Jun 23 20:14:14 2023 +0200
+
+    init
